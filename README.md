@@ -1,2 +1,1 @@
-# precurso-henry
-Repositorio de prueba modulo 2 precurso henry
+Este proyecto es una prueba de repositorio y como clonarlo desde github
